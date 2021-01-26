@@ -14,6 +14,7 @@ Repositories by language:
     * [Monitor Kafka lag in terminal](https://github.com/mostafa-asg/lag)
     * [pelican](https://github.com/mostafa-asg/pelican) Embedable/Standalone In-memory Key Value Store
     * [ip2country](https://github.com/mostafa-asg/ip2country)
+    * [bolbol](https://github.com/mostafa-asg/bolbol)
     * [consul-leader-election](https://github.com/mostafa-asg/consul-leader-election)
 * Kotlin
     * [SpellChecker](https://github.com/mostafa-asg/SpellChecker)
